@@ -1,4 +1,4 @@
-Entrepreneurship and Innovation Final Project
+# Entrepreneurship and Innovation Final Project
 
 Simulation of a Start-Up App as contribution to solve the first Sustainable Development Goal (No poverty) using Software Tools such as Excel, Thunkable and Google Forms.
 
